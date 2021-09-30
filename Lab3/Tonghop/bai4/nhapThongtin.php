@@ -44,6 +44,9 @@
                                 <div class="col-lg-6 login-btm login-button">
                                 <input type="submit" name="submit" class="btn btn-outline-primary" value="Gửi đi" />
                                 </div>
+                                 <div class="col-lg-6 login-btm login-button">
+                                <input type="reset" name="submit" class="btn btn-outline-primary" value="Hủy" />
+                                </div>
                             </div>
                         </form>
                     </div>

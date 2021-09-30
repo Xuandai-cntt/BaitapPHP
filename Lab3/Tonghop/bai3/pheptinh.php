@@ -15,21 +15,6 @@
                 $so_a=$_POST["so_a"];
                 $so_b=$_POST["so_b"];
                 $pt=$_POST["tinh"];
-                if($pt=="Cộng"){
-                    $kq=$so_a+$so_b;
-                }
-                else if($pt=="Trừ"){
-                    $kq=$so_a-$so_b;
-                }
-                else if($pt=="Nhân"){
-                    $kq=$so_a*$so_b;
-                }
-                else if($pt=="Chia"){
-                    if($so_b != 0){
-                    $kq=$so_a/$so_b;
-                    }
-                    else $kq="Không thực hiện được";
-                }
             }
         
     ?>

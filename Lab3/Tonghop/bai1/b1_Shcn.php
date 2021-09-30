@@ -2,7 +2,7 @@
 <html>
 <link rel="stylesheet" href="hcn.css">
 <head>
-    <title>Hinh chu nhat</title>
+    <title>Hình chữ nhật</title>
 </head>
 <body>
 <?php
@@ -20,12 +20,12 @@
         <table>
             <tr class="id">
                 <td colspan="2" style="color:red; font-size: 300%;">
-                  Diện Tích HCN
+                  Diện Tích Hình Chữ Nhật
                 </td>
             </tr>
             <tr>
                 <td>
-                   Chieu dai:
+                   Chiều dài:
                 </td>
                 <td>
                     <input type="number" placeholder="Vui long nhap so" name="cd" value="<?php echo $cd ?>">
@@ -33,7 +33,7 @@
             </tr>
             <tr>
                 <td>
-                   Chieu rong:
+                   Chiều rộng:
                 </td>
                 <td>
                     <input type="number" placeholder="Vui long nhap so" name="cr" value="<?php echo $cr ?>">

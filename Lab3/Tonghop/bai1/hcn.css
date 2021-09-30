@@ -1,0 +1,23 @@
+form{
+    position:absolute;
+}
+table{
+    border:5px solid purple;
+    margin: auto;
+    background-color:turquoise
+}
+td{
+    padding: 10px;
+}
+.id{
+    text-align: center;
+    color: black;
+}
+
+button{
+    border: none;
+    padding: 10px 20px;
+}
+button:hover{
+    cursor: pointer;
+}

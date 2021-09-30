@@ -1,0 +1,20 @@
+.style1 {
+    color: #FFFFFF;
+}
+table{
+    width: 400px;
+    border: 2px solid black; 
+    margin: auto;
+    background-color:yellow;
+}
+.id{
+    text-align: center;
+    color: black;
+}
+.id1{
+    text-align:center;
+    background-color:orange;
+}
+#thanhtien{
+    background-color: violet
+}

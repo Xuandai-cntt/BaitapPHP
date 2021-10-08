@@ -1,0 +1,24 @@
+
+td,tr {
+    width: auto;
+    padding: 3px 3px 3px 3px;
+    border: 1px solid black;
+   }
+h2{
+    text-align: center;
+    color: red;
+   }
+tr {
+    text-align: center;
+    color: red;
+   }
+   
+table {
+    margin: auto;
+    border: 2px solid black;
+   }
+.table_kq{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 130%;
+}

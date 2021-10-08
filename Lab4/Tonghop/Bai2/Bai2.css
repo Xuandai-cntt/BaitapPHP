@@ -1,0 +1,18 @@
+
+    table{
+
+        width: 400px;
+        border: 2px solid black;
+        margin: 100px auto;
+
+    }
+
+    table th{
+
+        background:green;
+
+        padding: 10px;
+
+        font-size: 18px;
+
+    }

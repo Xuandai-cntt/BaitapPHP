@@ -1,0 +1,20 @@
+td,th {
+    width: auto;
+    padding: 3px 3px 3px 3px;
+    border: 1px solid black;
+   }
+h2{
+    text-align: center;
+    color: red;
+   }
+th {
+    text-align: center;
+    color: red;
+   }
+   
+table {
+    margin: auto;
+    border: 2px solid black;
+    background-color: gray
+   }
+   

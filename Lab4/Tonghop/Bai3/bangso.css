@@ -1,0 +1,74 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+table {
+    width: 65%;
+    margin-left: 180px;
+    border: none;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+    padding: 10px 0px 0px 300px;
+}
+body {
+    font-family: "Arial, Tahoma, Helvetica",sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0 auto;
+    padding: 0;
+    background:darkslategray;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+.txt_giai{
+    font-size:150%;
+    border:1px solid black;
+    width: 200px;
+}
+.txt_number{
+    font-size: 150%;
+    text-align: center;
+    width: 200px;
+    border:1px solid black;
+}
+.form_input{
+    padding: 50px 100px 0px 200px;
+    font-size:150%;
+}
+.form_input button{
+    text-align: center;
+    font-size: 150%;
+}
+.kq{
+    margin-top: 30px;
+    margin-left: 500px;
+}
+label{
+    width: 400px;
+    height: 200px;
+    font-size: 200%;
+    text-align: center;
+    color: yellow
+}
+.giai_do{
+    color: red;
+    font-size: x-large;
+}
+.so{
+    font-size: 150%;
+    color: blueviolet;
+}
+h1{
+    color:chartreuse;
+}

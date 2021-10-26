@@ -14,7 +14,7 @@ include ('includes/header.html');
 	}
 </style>
 <?php 
-$rowsPerPage=3; //số mẩu tin trên mỗi trang, giả sử là 10
+$rowsPerPage=3; //số mẩu tin trên mỗi trang, giả sử là 3
 if (!isset($_GET['page']))
 { $_GET['page'] = 1;
 }
